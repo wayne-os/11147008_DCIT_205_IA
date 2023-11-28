@@ -1,7 +1,11 @@
 # DCIT_205_IA
+Introduction.
 Welcome to the official website of the Computer Science Department at University of Ghana.This extensive website acts as a central location for present and prospective students, teachers, staff, and alumni to learn about the department's research projects, academic offerings, and community outreach programs.
+
+Purpose of the website.
 This websites aims to show the academic excellence, news about the department as well as projects and achievements accomplished by the department. It is also aimed to attract prospective students, empower current students as well as connect students to alumnis.
 
+Features of the website.
 This user-friendly website offers a seamless navigation experience and a wealth of information, including:
 Department Overview: A brief history of the department, its mission, and its current focus areas.
 Faculty: Detailed profiles of faculty members, including their research interests, publications, and contact information.
@@ -10,6 +14,7 @@ Research: Highlights of the department's ongoing research projects, faculty publ
 Resources: A comprehensive list of resources for students, including academic advising, tutoring, internship opportunities, student organizations, and career services.
 News and Events: Up-to-date news about department events, conferences, faculty achievements, and student accomplishments.
 
+Contributions and pictures of website.
 I welcome contributions from students, faculty, and alumni to keep the website's content fresh and up-to-date. Please submit your contributions as pull requests on the GitHub repository.
 Find below some pictures of how the website looks like;
 ![index](https://github.com/wayne-os/11147008_DCIT_205_IA/assets/149197452/7fb2fee6-9c50-4576-81a9-f06ed1c4ddf2)
